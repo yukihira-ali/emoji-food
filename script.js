@@ -33,10 +33,10 @@ function startGame() {
 
   const guess5 = prompt('What does this ☠️🐔 stand for?');
 
-  if (guess5.toLowerCase() === 'rangka ayam?') {
+  if (guess5.toLowerCase() === 'rangka ayam') {
     alert('You guessed correctly!');
   } else {
-    alert(`Sorry the correct answer was rangka ayam?`);
+    alert(`Sorry the correct answer was rangka ayam`);
   }
 
   const guess6 = prompt('What does this 🌊🗿➕ stand for?');
